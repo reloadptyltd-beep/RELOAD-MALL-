@@ -1,0 +1,1 @@
+Compress-Archive -Path * -DestinationPath reload-shopify-mall.zip -Force -Exclude node_modules
